@@ -1,0 +1,11 @@
+ID_Prodotto,Nome_Prodotto,Categoria,Brand,Dimensioni,Peso,Colore,Connettività,Prezzo_Medio
+101,Smartphone,Elettronica,Samsung,6.5 pollici,180g,Nero,"5G, WiFi",699
+102,Laptop,Elettronica,Dell,15.6 pollici,2.2kg,Argento,"WiFi, Bluetooth",1200
+103,Tablet,Elettronica,Apple,10.2 pollici,450g,Grigio,"WiFi, Bluetooth",899
+104,Monitor,Elettronica,LG,24 pollici,3.5kg,Nero,"HDMI, DisplayPort",300
+105,Mouse,Accessori,Logitech,Standard,120g,Nero,USB,50
+106,Tastiera,Accessori,Corsair,Full-size,800g,RGB,"USB, Wireless",100
+107,Stampante,Periferiche,HP,Multifunzione,5kg,Bianco,"USB, WiFi",250
+108,Cuffie,Audio,Sony,Over-ear,250g,Nero,"Jack 3.5mm, Bluetooth",150
+109,Router,Rete,TP-Link,Compatto,300g,Bianco,"Ethernet, WiFi",80
+110,Hard Disk,Storage,Seagate,3.5'',600g,Blu,USB 3.0,120
