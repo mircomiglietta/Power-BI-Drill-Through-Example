@@ -17,4 +17,4 @@ Il repository include:
 │   ├── vendite.csv
 │   ├── prodotti.csv
 │   └── dettagli_prodotti.csv
-└── PowerBI_DrillThrough.pbix
+└── Tutorial Drill Through.pbix
